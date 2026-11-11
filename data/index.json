@@ -3604,10 +3604,35 @@
    "map_names": [
     "Pot o' Gold"
    ],
-   "tris": 4985,
+   "tris": 1792,
    "opa": "0x1DAD",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 498,
+   "crack_samples": 72777079592,
+   "crack_floats": 957476743,
+   "spots": 957476743,
+   "shown": 532658,
+   "cats": {
+    "wall": 450768818,
+    "walk": 143592343,
+    "lag": 6736857,
+    "jump": 109937224,
+    "eject": 192692367,
+    "stuck": 53749134
+   },
+   "cats_flat": {
+    "wall": 602048,
+    "eject": 141166603,
+    "walk": 4674029,
+    "jump": 140937,
+    "lag": 32378
+   },
+   "holds": 102222425,
+   "void": 4673612,
+   "every": true,
+   "cells": 532658,
+   "bytes": 10807304
   },
   {
    "map": "0x141",
