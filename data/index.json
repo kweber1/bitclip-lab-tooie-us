@@ -610,10 +610,38 @@
    "map_names": [
     "Flooded Caves"
    ],
-   "tris": 5463,
+   "tris": 2351,
    "opa": "0x1D1B",
    "xlu": "0x1D2D",
-   "done": false
+   "done": true,
+   "seams": 894,
+   "crack_samples": 68652486217,
+   "crack_floats": 563042452,
+   "spots": 563042452,
+   "shown": 580932,
+   "cats": {
+    "wall": 183775583,
+    "eject": 242934685,
+    "stuck": 118408440,
+    "water": 992297,
+    "walk": 16295490,
+    "jump": 546744,
+    "lag": 89213
+   },
+   "cats_flat": {
+    "wall": 46130647,
+    "eject": 34448505,
+    "water": 968352,
+    "jump": 19253,
+    "lag": 13048,
+    "walk": 1017869,
+    "stuck": 41229
+   },
+   "holds": 1963105,
+   "void": 1026503,
+   "every": true,
+   "cells": 580932,
+   "bytes": 12174335
   },
   {
    "map": "0xCD",
