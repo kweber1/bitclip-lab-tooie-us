@@ -3041,10 +3041,36 @@
    "map_names": [
     "Fire Train Station"
    ],
-   "tris": 4807,
+   "tris": 1959,
    "opa": "0x1DA0",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 463,
+   "crack_samples": 42966141911,
+   "crack_floats": 35670589,
+   "spots": 35670589,
+   "shown": 260467,
+   "cats": {
+    "wall": 2818872,
+    "eject": 4857448,
+    "jump": 58180,
+    "lag": 47526,
+    "walk": 671811,
+    "stuck": 27216752
+   },
+   "cats_flat": {
+    "wall": 324287,
+    "eject": 1187255,
+    "jump": 34691,
+    "lag": 45936,
+    "walk": 643273,
+    "stuck": 63878
+   },
+   "holds": 29797,
+   "void": 530396,
+   "every": true,
+   "cells": 260467,
+   "bytes": 4604902
   },
   {
    "map": "0x12A",
