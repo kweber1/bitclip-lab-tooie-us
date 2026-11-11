@@ -1677,10 +1677,31 @@
    "map_names": [
     "Inside Big Fish"
    ],
-   "tris": 3769,
+   "tris": 1721,
    "opa": "0x1D53",
    "xlu": "0x1D54",
-   "done": false
+   "done": true,
+   "seams": 567,
+   "crack_samples": 50619903551,
+   "crack_floats": 128890948,
+   "spots": 128890948,
+   "shown": 48251,
+   "cats": {
+    "wall": 48950337,
+    "eject": 33781886,
+    "stuck": 41582335,
+    "jump": 129,
+    "water": 4576261
+   },
+   "cats_flat": {
+    "stuck": 8,
+    "eject": 25843
+   },
+   "holds": 316833,
+   "void": 0,
+   "every": true,
+   "cells": 335169,
+   "bytes": 1341164
   },
   {
    "map": "0xF9",
