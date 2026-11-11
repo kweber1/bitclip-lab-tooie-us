@@ -3268,10 +3268,36 @@
    "map_names": [
     "Cheesewedge"
    ],
-   "tris": 4243,
+   "tris": 1736,
    "opa": "0x1DB0",
    "xlu": "0x1DB6",
-   "done": false
+   "done": true,
+   "seams": 628,
+   "crack_samples": 54585327349,
+   "crack_floats": 66080706,
+   "spots": 66080706,
+   "shown": 200144,
+   "cats": {
+    "wall": 53008374,
+    "eject": 8488226,
+    "stuck": 3714513,
+    "walk": 458191,
+    "jump": 183964,
+    "lag": 227438
+   },
+   "cats_flat": {
+    "wall": 236255,
+    "eject": 3791540,
+    "stuck": 42038,
+    "walk": 142618,
+    "lag": 2193,
+    "jump": 11763
+   },
+   "holds": 953375,
+   "void": 163899,
+   "every": true,
+   "cells": 200144,
+   "bytes": 4123361
   },
   {
    "map": "0x139",
