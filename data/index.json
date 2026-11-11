@@ -3709,10 +3709,36 @@
     "Bob Explanation",
     "Energy Gained Bob"
    ],
-   "tris": 3489,
+   "tris": 1989,
    "opa": "0x1DBB",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 594,
+   "crack_samples": 60136928866,
+   "crack_floats": 334397429,
+   "spots": 334397429,
+   "shown": 168051,
+   "cats": {
+    "wall": 35426880,
+    "walk": 92650999,
+    "eject": 66691424,
+    "lag": 6572211,
+    "jump": 39229802,
+    "stuck": 93826113
+   },
+   "cats_flat": {
+    "wall": 3946593,
+    "walk": 1771176,
+    "eject": 29534389,
+    "lag": 10890,
+    "jump": 52775,
+    "stuck": 147581
+   },
+   "holds": 2071610,
+   "void": 4983547,
+   "every": true,
+   "cells": 312242,
+   "bytes": 3003639
   },
   {
    "map": "0x162",
