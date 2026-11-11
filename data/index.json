@@ -379,10 +379,36 @@
    "map_names": [
     "Jade Snake Grove"
    ],
-   "tris": 4825,
+   "tris": 2620,
    "opa": "0x1D11",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1113,
+   "crack_samples": 97691094907,
+   "crack_floats": 57660595,
+   "spots": 57660595,
+   "shown": 360086,
+   "cats": {
+    "wall": 5168531,
+    "eject": 6200881,
+    "walk": 1080535,
+    "stuck": 45053167,
+    "lag": 66612,
+    "jump": 90869
+   },
+   "cats_flat": {
+    "wall": 462886,
+    "eject": 5194808,
+    "walk": 808699,
+    "stuck": 149117,
+    "lag": 2302,
+    "jump": 10221
+   },
+   "holds": 1416094,
+   "void": 809705,
+   "every": true,
+   "cells": 360086,
+   "bytes": 5741026
   },
   {
    "map": "0xC5",
