@@ -35,7 +35,7 @@
    "crack_samples": 55338453373,
    "crack_floats": 172785414,
    "spots": 172785414,
-   "shown": 57292,
+   "shown": 218104,
    "cats": {
     "wall": 109401889,
     "eject": 30905126,
@@ -54,7 +54,7 @@
    },
    "holds": 6085758,
    "void": 214745,
-   "bytes": 1273482,
+   "bytes": 4276402,
    "every": true,
    "cells": 218104
   },
@@ -95,8 +95,8 @@
    },
    "holds": 7462,
    "void": 589180,
-   "bytes": 502676,
-   "shown": 26423,
+   "bytes": 1337753,
+   "shown": 76852,
    "every": true,
    "cells": 76852
   },
@@ -132,7 +132,7 @@
    "crack_samples": 63067335289,
    "crack_floats": 66306387,
    "spots": 66306387,
-   "shown": 27524,
+   "shown": 135851,
    "cats": {
     "wall": 9563438,
     "eject": 48173725,
@@ -152,7 +152,7 @@
    },
    "holds": 2482443,
    "void": 93,
-   "bytes": 748021,
+   "bytes": 2984381,
    "every": true,
    "cells": 135851
   },
@@ -192,7 +192,7 @@
    "crack_samples": 87128935082,
    "crack_floats": 609979773,
    "spots": 609979773,
-   "shown": 100463,
+   "shown": 207094,
    "cats": {
     "wall": 6919162,
     "jump": 8095780,
@@ -211,7 +211,7 @@
    },
    "holds": 1252015,
    "void": 1517177,
-   "bytes": 1900878,
+   "bytes": 3901089,
    "every": true,
    "cells": 207094
   },
@@ -265,7 +265,7 @@
    "crack_samples": 34916935333,
    "crack_floats": 44714385,
    "spots": 44714385,
-   "shown": 134129,
+   "shown": 228328,
    "cats": {
     "wall": 10540040,
     "stuck": 1732972,
@@ -283,7 +283,7 @@
    },
    "holds": 321295,
    "void": 3442585,
-   "bytes": 2116235,
+   "bytes": 3621618,
    "every": true,
    "cells": 228328
   },
@@ -320,7 +320,7 @@
    "crack_samples": 42162120035,
    "crack_floats": 152754111,
    "spots": 152754111,
-   "shown": 65843,
+   "shown": 149338,
    "cats": {
     "wall": 61537476,
     "walk": 686742,
@@ -341,7 +341,7 @@
    "void": 686742,
    "every": true,
    "cells": 149338,
-   "bytes": 1062028
+   "bytes": 2580445
   },
   {
    "map": "0xC4",
@@ -414,8 +414,8 @@
    },
    "holds": 1157512,
    "void": 130349,
-   "bytes": 453106,
-   "shown": 17245,
+   "bytes": 1525318,
+   "shown": 67994,
    "every": true,
    "cells": 67994
   },
@@ -456,7 +456,7 @@
    "crack_samples": 51255292137,
    "crack_floats": 39725331,
    "spots": 39725331,
-   "shown": 50479,
+   "shown": 182309,
    "cats": {
     "wall": 25197026,
     "walk": 1973805,
@@ -479,7 +479,7 @@
    "void": 164984,
    "every": true,
    "cells": 182309,
-   "bytes": 1023743
+   "bytes": 3227256
   },
   {
    "map": "0xCB",
@@ -517,8 +517,8 @@
    },
    "holds": 15027855,
    "void": 1823559,
-   "bytes": 753985,
-   "shown": 49179,
+   "bytes": 1067855,
+   "shown": 76055,
    "every": true,
    "cells": 76055
   },
@@ -575,8 +575,8 @@
    },
    "holds": 722187,
    "void": 812641,
-   "bytes": 1302974,
-   "shown": 67582,
+   "bytes": 3518929,
+   "shown": 200065,
    "every": true,
    "cells": 200065
   },
@@ -613,8 +613,8 @@
    },
    "holds": 1368,
    "void": 0,
-   "bytes": 542413,
-   "shown": 19813,
+   "bytes": 2878405,
+   "shown": 133307,
    "every": true,
    "cells": 133307
   },
@@ -636,7 +636,7 @@
    "crack_samples": 11373151097,
    "crack_floats": 5826944,
    "spots": 5826944,
-   "shown": 15205,
+   "shown": 34379,
    "cats": {
     "walk": 457567,
     "lag": 1798,
@@ -655,7 +655,7 @@
    },
    "holds": 79085,
    "void": 399535,
-   "bytes": 321649,
+   "bytes": 673050,
    "every": true,
    "cells": 34379
   },
@@ -677,7 +677,7 @@
    "crack_samples": 39013475781,
    "crack_floats": 348289609,
    "spots": 348289609,
-   "shown": 22278,
+   "shown": 46510,
    "cats": {
     "wall": 141888787,
     "eject": 74227972,
@@ -697,7 +697,7 @@
    "void": 548965,
    "every": true,
    "cells": 46510,
-   "bytes": 582913
+   "bytes": 1072955
   },
   {
    "map": "0xD1",
@@ -735,8 +735,8 @@
    },
    "holds": 282083,
    "void": 112185,
-   "bytes": 520243,
-   "shown": 23178,
+   "bytes": 2119167,
+   "shown": 111342,
    "every": true,
    "cells": 111342
   },
@@ -758,7 +758,7 @@
    "crack_samples": 51850363565,
    "crack_floats": 795822257,
    "spots": 795822257,
-   "shown": 96192,
+   "shown": 339650,
    "cats": {
     "wall": 240766372,
     "eject": 35739517,
@@ -778,7 +778,7 @@
    },
    "holds": 30296116,
    "void": 2631251,
-   "bytes": 2084497,
+   "bytes": 6697855,
    "every": true,
    "cells": 339650
   },
@@ -800,7 +800,7 @@
    "crack_samples": 15948141468,
    "crack_floats": 44890136,
    "spots": 44890136,
-   "shown": 21779,
+   "shown": 86433,
    "cats": {
     "wall": 1129502,
     "eject": 25125995,
@@ -819,7 +819,7 @@
    },
    "holds": 651238,
    "void": 241512,
-   "bytes": 524708,
+   "bytes": 1800261,
    "every": true,
    "cells": 86433
   },
@@ -859,8 +859,8 @@
    },
    "holds": 11247660,
    "void": 19,
-   "bytes": 718095,
-   "shown": 31612,
+   "bytes": 2341874,
+   "shown": 110094,
    "every": true,
    "cells": 110094
   },
@@ -884,7 +884,7 @@
    "crack_samples": 173285614901,
    "crack_floats": 292272057,
    "spots": 292272057,
-   "shown": 635387,
+   "shown": 1880569,
    "cats": {
     "wall": 194676424,
     "eject": 56382110,
@@ -905,7 +905,7 @@
    },
    "holds": 8662196,
    "void": 2081782,
-   "bytes": 11603484,
+   "bytes": 33248283,
    "every": true,
    "cells": 1880569
   },
@@ -945,8 +945,8 @@
    },
    "holds": 116228,
    "void": 437147,
-   "bytes": 590406,
-   "shown": 25066,
+   "bytes": 2629594,
+   "shown": 131635,
    "every": true,
    "cells": 131635
   },
@@ -968,7 +968,7 @@
    "crack_samples": 21219346148,
    "crack_floats": 87824669,
    "spots": 87824669,
-   "shown": 27026,
+   "shown": 53756,
    "cats": {
     "wall": 9649928,
     "stuck": 1851944,
@@ -987,7 +987,7 @@
    },
    "holds": 2190650,
    "void": 2572856,
-   "bytes": 585744,
+   "bytes": 1032983,
    "every": true,
    "cells": 53756
   },
@@ -1027,8 +1027,8 @@
    },
    "holds": 8601418,
    "void": 1319784,
-   "bytes": 665629,
-   "shown": 23170,
+   "bytes": 1825726,
+   "shown": 77111,
    "every": true,
    "cells": 77111
   },
@@ -1067,8 +1067,8 @@
    },
    "holds": 9183674,
    "void": 1314816,
-   "bytes": 774188,
-   "shown": 28126,
+   "bytes": 2511592,
+   "shown": 110276,
    "every": true,
    "cells": 110276
   },
@@ -1125,8 +1125,8 @@
    },
    "holds": 4174,
    "void": 368781,
-   "bytes": 213446,
-   "shown": 13377,
+   "bytes": 366583,
+   "shown": 26308,
    "every": true,
    "cells": 26308
   },
@@ -1168,8 +1168,8 @@
    },
    "holds": 6678668,
    "void": 2034145,
-   "bytes": 2513304,
-   "shown": 156893,
+   "bytes": 5025102,
+   "shown": 314867,
    "every": true,
    "cells": 314867
   },
@@ -1208,8 +1208,8 @@
    },
    "holds": 8222,
    "void": 48703,
-   "bytes": 107717,
-   "shown": 3330,
+   "bytes": 513031,
+   "shown": 20478,
    "every": true,
    "cells": 20478
   },
@@ -1249,8 +1249,8 @@
    },
    "holds": 3047957,
    "void": 798447,
-   "bytes": 683551,
-   "shown": 34269,
+   "bytes": 1420542,
+   "shown": 77353,
    "every": true,
    "cells": 77353
   },
@@ -1290,8 +1290,8 @@
    },
    "holds": 1698435,
    "void": 10329748,
-   "bytes": 573143,
-   "shown": 51583,
+   "bytes": 666864,
+   "shown": 61419,
    "every": true,
    "cells": 61419
   },
@@ -1333,8 +1333,8 @@
    },
    "holds": 338181,
    "void": 15614,
-   "bytes": 2175580,
-   "shown": 86991,
+   "bytes": 10741551,
+   "shown": 520792,
    "every": true,
    "cells": 520792
   },
@@ -1356,7 +1356,7 @@
    "crack_samples": 77542323572,
    "crack_floats": 94450113,
    "spots": 94450113,
-   "shown": 79827,
+   "shown": 325306,
    "cats": {
     "wall": 26694225,
     "walk": 4640905,
@@ -1375,7 +1375,7 @@
    },
    "holds": 1779983,
    "void": 144,
-   "bytes": 1873102,
+   "bytes": 6423448,
    "every": true,
    "cells": 325306
   },
@@ -1397,7 +1397,7 @@
    "crack_samples": 34721047361,
    "crack_floats": 41802307,
    "spots": 41802307,
-   "shown": 83942,
+   "shown": 119925,
    "cats": {
     "wall": 6420532,
     "walk": 2280857,
@@ -1415,7 +1415,7 @@
    },
    "holds": 6760,
    "void": 2195931,
-   "bytes": 1281407,
+   "bytes": 1745597,
    "every": true,
    "cells": 119925
   },
@@ -1437,7 +1437,7 @@
    "crack_samples": 44403697513,
    "crack_floats": 22674491,
    "spots": 22674491,
-   "shown": 70925,
+   "shown": 167086,
    "cats": {
     "eject": 9542875,
     "stuck": 1940845,
@@ -1456,7 +1456,7 @@
    },
    "holds": 985330,
    "void": 4469,
-   "bytes": 1330873,
+   "bytes": 3087421,
    "every": true,
    "cells": 167086
   },
@@ -1478,7 +1478,7 @@
    "crack_samples": 56680474830,
    "crack_floats": 226293629,
    "spots": 226293629,
-   "shown": 90876,
+   "shown": 194213,
    "cats": {
     "wall": 43506432,
     "stuck": 56827733,
@@ -1497,7 +1497,7 @@
    },
    "holds": 1461477,
    "void": 2186325,
-   "bytes": 1578385,
+   "bytes": 3481009,
    "every": true,
    "cells": 194213
   },
@@ -1534,7 +1534,7 @@
    "crack_samples": 31308908260,
    "crack_floats": 83931666,
    "spots": 83931666,
-   "shown": 7461,
+   "shown": 21133,
    "cats": {
     "wall": 74831939,
     "walk": 741775,
@@ -1553,7 +1553,7 @@
    },
    "holds": 15192208,
    "void": 48986,
-   "bytes": 186728,
+   "bytes": 448243,
    "every": true,
    "cells": 21133
   },
@@ -1575,7 +1575,7 @@
    "crack_samples": 59421691259,
    "crack_floats": 131291229,
    "spots": 131291229,
-   "shown": 118823,
+   "shown": 254805,
    "cats": {
     "wall": 14929636,
     "walk": 1608348,
@@ -1596,7 +1596,7 @@
    "void": 1378978,
    "every": true,
    "cells": 254805,
-   "bytes": 1951959
+   "bytes": 4153605
   },
   {
    "map": "0xF4",
@@ -1631,7 +1631,7 @@
    "crack_samples": 31082398270,
    "crack_floats": 9284681,
    "spots": 9284681,
-   "shown": 9458,
+   "shown": 56248,
    "cats": {
     "wall": 495381,
     "stuck": 4799402,
@@ -1648,7 +1648,7 @@
    },
    "holds": 12203,
    "void": 5247,
-   "bytes": 260529,
+   "bytes": 1199303,
    "every": true,
    "cells": 56248
   },
@@ -1685,7 +1685,7 @@
    "crack_samples": 50619903551,
    "crack_floats": 128890948,
    "spots": 128890948,
-   "shown": 48251,
+   "shown": 335169,
    "cats": {
     "wall": 48950337,
     "eject": 33781886,
@@ -1701,7 +1701,7 @@
    "void": 0,
    "every": true,
    "cells": 335169,
-   "bytes": 1341164
+   "bytes": 7380429
   },
   {
    "map": "0xF9",
@@ -1721,7 +1721,7 @@
    "crack_samples": 66405990119,
    "crack_floats": 1598208,
    "spots": 1598208,
-   "shown": 76602,
+   "shown": 90066,
    "cats": {
     "wall": 108274,
     "lag": 554355,
@@ -1738,7 +1738,7 @@
    },
    "holds": 745,
    "void": 505596,
-   "bytes": 806463,
+   "bytes": 953057,
    "every": true,
    "cells": 90066
   },
@@ -1760,7 +1760,7 @@
    "crack_samples": 27355898801,
    "crack_floats": 2419114,
    "spots": 2419114,
-   "shown": 10963,
+   "shown": 36424,
    "cats": {
     "wall": 1398460,
     "stuck": 65352,
@@ -1778,7 +1778,7 @@
    },
    "holds": 0,
    "void": 94529,
-   "bytes": 218601,
+   "bytes": 643577,
    "every": true,
    "cells": 36424
   },
@@ -1800,7 +1800,7 @@
    "crack_samples": 43926122121,
    "crack_floats": 14339721,
    "spots": 14339721,
-   "shown": 30173,
+   "shown": 192460,
    "cats": {
     "wall": 233043,
     "eject": 11086498,
@@ -1810,7 +1810,7 @@
    "cats_flat": {},
    "holds": 802,
    "void": 0,
-   "bytes": 760666,
+   "bytes": 3821560,
    "every": true,
    "cells": 192460
   },
@@ -1832,7 +1832,7 @@
    "crack_samples": 35714361144,
    "crack_floats": 27433520,
    "spots": 27433520,
-   "shown": 29934,
+   "shown": 61099,
    "cats": {
     "wall": 2927187,
     "eject": 4682574,
@@ -1851,7 +1851,7 @@
    },
    "holds": 1350054,
    "void": 823191,
-   "bytes": 569496,
+   "bytes": 1076887,
    "every": true,
    "cells": 61099
   },
@@ -1933,7 +1933,7 @@
    "crack_samples": 59826452938,
    "crack_floats": 44151473,
    "spots": 44151473,
-   "shown": 21965,
+   "shown": 47414,
    "cats": {
     "walk": 500732,
     "eject": 22391612,
@@ -1952,7 +1952,7 @@
    },
    "holds": 243645,
    "void": 500732,
-   "bytes": 378684,
+   "bytes": 716807,
    "every": true,
    "cells": 47414
   },
@@ -1974,7 +1974,7 @@
    "crack_samples": 17013964926,
    "crack_floats": 13120028,
    "spots": 13120028,
-   "shown": 13680,
+   "shown": 20170,
    "cats": {
     "wall": 7419991,
     "eject": 4939219,
@@ -1995,7 +1995,7 @@
    "void": 638576,
    "every": true,
    "cells": 20170,
-   "bytes": 239276
+   "bytes": 315655
   },
   {
    "map": "0x106",
@@ -2048,8 +2048,8 @@
    },
    "holds": 60718,
    "void": 1790318,
-   "bytes": 721839,
-   "shown": 48503,
+   "bytes": 1065246,
+   "shown": 79916,
    "every": true,
    "cells": 79916
   },
@@ -2086,7 +2086,7 @@
    "crack_samples": 68337650899,
    "crack_floats": 59875866,
    "spots": 59875866,
-   "shown": 163014,
+   "shown": 282378,
    "cats": {
     "wall": 15044970,
     "walk": 9450861,
@@ -2107,7 +2107,7 @@
    "void": 2900723,
    "every": true,
    "cells": 282378,
-   "bytes": 2477090
+   "bytes": 4264747
   },
   {
    "map": "0x10A",
@@ -2145,8 +2145,8 @@
    },
    "holds": 273892,
    "void": 29253,
-   "bytes": 288799,
-   "shown": 25556,
+   "bytes": 1396105,
+   "shown": 181960,
    "every": true,
    "cells": 181960
   },
@@ -2198,7 +2198,7 @@
    "crack_samples": 46126139878,
    "crack_floats": 589400698,
    "spots": 589400698,
-   "shown": 83854,
+   "shown": 126178,
    "cats": {
     "wall": 9885968,
     "eject": 16637134,
@@ -2217,7 +2217,7 @@
    },
    "holds": 114021349,
    "void": 1207951,
-   "bytes": 1100102,
+   "bytes": 1776009,
    "every": true,
    "cells": 126178
   },
@@ -2312,8 +2312,8 @@
    },
    "holds": 3097500,
    "void": 2602,
-   "bytes": 299077,
-   "shown": 11559,
+   "bytes": 604240,
+   "shown": 30898,
    "every": true,
    "cells": 30898
   },
@@ -2383,8 +2383,8 @@
    },
    "holds": 9924703,
    "void": 199975,
-   "bytes": 2427281,
-   "shown": 99877,
+   "bytes": 10259522,
+   "shown": 482258,
    "every": true,
    "cells": 482258
   },
@@ -2406,7 +2406,7 @@
    "crack_samples": 73098824673,
    "crack_floats": 293404323,
    "spots": 293404323,
-   "shown": 78768,
+   "shown": 420996,
    "cats": {
     "wall": 94078403,
     "eject": 91270271,
@@ -2425,7 +2425,7 @@
    },
    "holds": 10553954,
    "void": 33616,
-   "bytes": 2086506,
+   "bytes": 9146901,
    "every": true,
    "cells": 420996
   },
@@ -2492,7 +2492,7 @@
    "crack_samples": 74164032334,
    "crack_floats": 504108958,
    "spots": 504108958,
-   "shown": 115908,
+   "shown": 513676,
    "cats": {
     "wall": 231455228,
     "eject": 115916705,
@@ -2511,7 +2511,7 @@
    },
    "holds": 3166235,
    "void": 578659,
-   "bytes": 2584451,
+   "bytes": 10354735,
    "every": true,
    "cells": 513676
   },
@@ -2563,7 +2563,7 @@
    "crack_samples": 53837789299,
    "crack_floats": 46922861,
    "spots": 46922861,
-   "shown": 36778,
+   "shown": 99542,
    "cats": {
     "wall": 679217,
     "walk": 569889,
@@ -2581,7 +2581,7 @@
    },
    "holds": 326980,
    "void": 565777,
-   "bytes": 744587,
+   "bytes": 1985791,
    "every": true,
    "cells": 99542
   },
@@ -2603,7 +2603,7 @@
    "crack_samples": 63067335289,
    "crack_floats": 63693171,
    "spots": 63693171,
-   "shown": 22599,
+   "shown": 125128,
    "cats": {
     "wall": 9051261,
     "eject": 46500380,
@@ -2620,7 +2620,7 @@
    },
    "holds": 1996207,
    "void": 0,
-   "bytes": 625237,
+   "bytes": 2719069,
    "every": true,
    "cells": 125128
   },
@@ -2658,8 +2658,8 @@
    },
    "holds": 3885,
    "void": 57063,
-   "bytes": 145194,
-   "shown": 8514,
+   "bytes": 228731,
+   "shown": 17029,
    "every": true,
    "cells": 17029
   },
@@ -2681,7 +2681,7 @@
    "crack_samples": 70230059641,
    "crack_floats": 101518414,
    "spots": 101518414,
-   "shown": 62199,
+   "shown": 283185,
    "cats": {
     "wall": 12426364,
     "eject": 71369408,
@@ -2701,7 +2701,7 @@
    },
    "holds": 5875896,
    "void": 93,
-   "bytes": 1548061,
+   "bytes": 5786619,
    "every": true,
    "cells": 283185
   },
@@ -2742,8 +2742,8 @@
    },
    "holds": 288,
    "void": 35711,
-   "bytes": 416961,
-   "shown": 15572,
+   "bytes": 2059988,
+   "shown": 94312,
    "every": true,
    "cells": 94312
   },
@@ -2765,7 +2765,7 @@
    "crack_samples": 45526680773,
    "crack_floats": 422190337,
    "spots": 422190337,
-   "shown": 49660,
+   "shown": 206111,
    "cats": {
     "wall": 138714718,
     "stuck": 204184338,
@@ -2777,7 +2777,7 @@
    "cats_flat": {},
    "holds": 92026247,
    "void": 201565,
-   "bytes": 1252905,
+   "bytes": 4529046,
    "every": true,
    "cells": 206111
   },
@@ -2799,7 +2799,7 @@
    "crack_samples": 63275996665,
    "crack_floats": 683056161,
    "spots": 683056161,
-   "shown": 71429,
+   "shown": 256453,
    "cats": {
     "wall": 257341621,
     "stuck": 298524263,
@@ -2811,7 +2811,7 @@
    "cats_flat": {},
    "holds": 196461537,
    "void": 2063060,
-   "bytes": 1950100,
+   "bytes": 6044973,
    "every": true,
    "cells": 256453
   },
@@ -2895,7 +2895,7 @@
    "crack_samples": 63239137703,
    "crack_floats": 197788052,
    "spots": 197788052,
-   "shown": 252614,
+   "shown": 486270,
    "cats": {
     "wall": 137970732,
     "walk": 6886151,
@@ -2914,7 +2914,7 @@
    },
    "holds": 102181,
    "void": 6747171,
-   "bytes": 4052871,
+   "bytes": 8676120,
    "every": true,
    "cells": 486270
   },
@@ -2936,7 +2936,7 @@
    "crack_samples": 54779291679,
    "crack_floats": 160388830,
    "spots": 160388830,
-   "shown": 225480,
+   "shown": 432099,
    "cats": {
     "wall": 137953664,
     "walk": 2649066,
@@ -2955,7 +2955,7 @@
    },
    "holds": 44992,
    "void": 2431074,
-   "bytes": 3546958,
+   "bytes": 7800105,
    "every": true,
    "cells": 432099
   },
@@ -3015,8 +3015,8 @@
    },
    "holds": 1136067,
    "void": 131059,
-   "bytes": 449936,
-   "shown": 17167,
+   "bytes": 1524096,
+   "shown": 67994,
    "every": true,
    "cells": 67994
   },
@@ -3100,7 +3100,7 @@
    "crack_samples": 62681412185,
    "crack_floats": 163534121,
    "spots": 163534121,
-   "shown": 77606,
+   "shown": 349976,
    "cats": {
     "wall": 23711564,
     "stuck": 59246332,
@@ -3120,7 +3120,7 @@
    },
    "holds": 6503978,
    "void": 219228,
-   "bytes": 1915459,
+   "bytes": 7466625,
    "every": true,
    "cells": 349976
   },
@@ -3176,8 +3176,8 @@
    },
    "holds": 224038,
    "void": 201549,
-   "bytes": 1766163,
-   "shown": 72571,
+   "bytes": 7807710,
+   "shown": 378483,
    "every": true,
    "cells": 378483
   },
@@ -3229,7 +3229,7 @@
    "crack_samples": 45800720301,
    "crack_floats": 150907670,
    "spots": 150907670,
-   "shown": 233797,
+   "shown": 453306,
    "cats": {
     "wall": 20116565,
     "eject": 91843673,
@@ -3248,7 +3248,7 @@
    },
    "holds": 1485972,
    "void": 7492696,
-   "bytes": 3838695,
+   "bytes": 7773219,
    "every": true,
    "cells": 453306
   },
@@ -3322,8 +3322,8 @@
    },
    "holds": 6277,
    "void": 3297404,
-   "bytes": 134412,
-   "shown": 8366,
+   "bytes": 369069,
+   "shown": 22976,
    "every": true,
    "cells": 22976
   },
@@ -3381,8 +3381,8 @@
    },
    "holds": 69189,
    "void": 4744588,
-   "bytes": 835812,
-   "shown": 45716,
+   "bytes": 1374545,
+   "shown": 81652,
    "every": true,
    "cells": 81652
   },
@@ -3437,8 +3437,8 @@
    },
    "holds": 1855044,
    "void": 4569439,
-   "bytes": 1754686,
-   "shown": 97546,
+   "bytes": 3223555,
+   "shown": 179214,
    "every": true,
    "cells": 179214
   },
@@ -3478,8 +3478,8 @@
    },
    "holds": 1532739,
    "void": 79998,
-   "bytes": 382211,
-   "shown": 16828,
+   "bytes": 872005,
+   "shown": 40960,
    "every": true,
    "cells": 40960
   },
@@ -3534,8 +3534,8 @@
    },
    "holds": 84556,
    "void": 333732,
-   "bytes": 311028,
-   "shown": 15678,
+   "bytes": 930217,
+   "shown": 47859,
    "every": true,
    "cells": 47859
   },
@@ -3557,7 +3557,7 @@
    "crack_samples": 71111698140,
    "crack_floats": 187585156,
    "spots": 187585156,
-   "shown": 187018,
+   "shown": 718927,
    "cats": {
     "wall": 75058034,
     "stuck": 29814068,
@@ -3580,7 +3580,7 @@
    "void": 1450918,
    "every": true,
    "cells": 718927,
-   "bytes": 4366229
+   "bytes": 14965112
   },
   {
    "map": "0x155",
@@ -3615,7 +3615,7 @@
    "crack_samples": 71858010007,
    "crack_floats": 440792741,
    "spots": 440792741,
-   "shown": 198147,
+   "shown": 866940,
    "cats": {
     "wall": 161180004,
     "jump": 12923806,
@@ -3636,7 +3636,7 @@
    "void": 502537,
    "every": true,
    "cells": 866940,
-   "bytes": 4840759
+   "bytes": 18212581
   },
   {
    "map": "0x15B",
@@ -3674,8 +3674,8 @@
    },
    "holds": 13468,
    "void": 14838,
-   "bytes": 1510120,
-   "shown": 57160,
+   "bytes": 8070289,
+   "shown": 376373,
    "every": true,
    "cells": 376373
   },
@@ -3731,7 +3731,7 @@
    "crack_samples": 50342642840,
    "crack_floats": 11483800,
    "spots": 11483800,
-   "shown": 58425,
+   "shown": 93793,
    "cats": {
     "wall": 6053499,
     "jump": 168635,
@@ -3749,7 +3749,7 @@
    },
    "holds": 88949,
    "void": 724459,
-   "bytes": 832105,
+   "bytes": 1279313,
    "every": true,
    "cells": 93793
   },
@@ -3773,7 +3773,7 @@
    "crack_samples": 38383667539,
    "crack_floats": 13840109,
    "spots": 13840109,
-   "shown": 53806,
+   "shown": 88572,
    "cats": {
     "wall": 1910109,
     "eject": 6041927,
@@ -3792,7 +3792,7 @@
    },
    "holds": 53961,
    "void": 1611102,
-   "bytes": 921912,
+   "bytes": 1447028,
    "every": true,
    "cells": 88572
   },
@@ -3820,7 +3820,7 @@
    "crack_samples": 60136928866,
    "crack_floats": 334397429,
    "spots": 334397429,
-   "shown": 168051,
+   "shown": 312242,
    "cats": {
     "wall": 35426880,
     "walk": 92650999,
@@ -3841,7 +3841,7 @@
    "void": 4983547,
    "every": true,
    "cells": 312242,
-   "bytes": 3003639
+   "bytes": 5690065
   },
   {
    "map": "0x162",
@@ -3896,8 +3896,8 @@
    },
    "holds": 2856,
    "void": 252313,
-   "bytes": 357108,
-   "shown": 15280,
+   "bytes": 1273791,
+   "shown": 65155,
    "every": true,
    "cells": 65155
   },
@@ -3953,8 +3953,8 @@
    },
    "holds": 248661,
    "void": 1411106,
-   "bytes": 359170,
-   "shown": 17215,
+   "bytes": 681506,
+   "shown": 34381,
    "every": true,
    "cells": 34381
   },
@@ -3978,7 +3978,7 @@
    "crack_samples": 72406494132,
    "crack_floats": 73650788,
    "spots": 73650788,
-   "shown": 172256,
+   "shown": 247025,
    "cats": {
     "wall": 583601,
     "eject": 65456387,
@@ -3997,7 +3997,7 @@
    },
    "holds": 63196,
    "void": 4742840,
-   "bytes": 2679915,
+   "bytes": 3833024,
    "every": true,
    "cells": 247025
   },
@@ -4036,8 +4036,8 @@
    },
    "holds": 8319,
    "void": 697051,
-   "bytes": 413847,
-   "shown": 23060,
+   "bytes": 838983,
+   "shown": 50942,
    "every": true,
    "cells": 50942
   },
@@ -4073,8 +4073,8 @@
    },
    "holds": 0,
    "void": 9,
-   "bytes": 10812,
-   "shown": 412,
+   "bytes": 23869,
+   "shown": 2256,
    "every": true,
    "cells": 2256
   },
@@ -4114,8 +4114,8 @@
    },
    "holds": 6277,
    "void": 3297404,
-   "bytes": 134365,
-   "shown": 8366,
+   "bytes": 369043,
+   "shown": 22976,
    "every": true,
    "cells": 22976
   },
@@ -4139,7 +4139,7 @@
    "crack_samples": 32376323889,
    "crack_floats": 124978404,
    "spots": 124978404,
-   "shown": 104558,
+   "shown": 580874,
    "cats": {
     "wall": 38765752,
     "eject": 50250298,
@@ -4155,7 +4155,7 @@
    },
    "holds": 389351,
    "void": 620,
-   "bytes": 2600302,
+   "bytes": 11780665,
    "every": true,
    "cells": 580874
   },
@@ -4194,8 +4194,8 @@
    },
    "holds": 262,
    "void": 0,
-   "bytes": 27150,
-   "shown": 1033,
+   "bytes": 116921,
+   "shown": 5829,
    "every": true,
    "cells": 5829
   },
@@ -4217,7 +4217,7 @@
    "crack_samples": 62681412185,
    "crack_floats": 173643193,
    "spots": 173643193,
-   "shown": 81686,
+   "shown": 366826,
    "cats": {
     "wall": 24356139,
     "stuck": 67360876,
@@ -4236,7 +4236,7 @@
    },
    "holds": 6515841,
    "void": 234842,
-   "bytes": 1989147,
+   "bytes": 7720182,
    "every": true,
    "cells": 366826
   },
@@ -4258,7 +4258,7 @@
    "crack_samples": 26276628154,
    "crack_floats": 2541523,
    "spots": 2541523,
-   "shown": 4104,
+   "shown": 13063,
    "cats": {
     "wall": 760954,
     "water": 411981,
@@ -4271,7 +4271,7 @@
    "cats_flat": {},
    "holds": 4655,
    "void": 0,
-   "bytes": 127753,
+   "bytes": 313690,
    "every": true,
    "cells": 13063
   },
@@ -4293,7 +4293,7 @@
    "crack_samples": 38281768035,
    "crack_floats": 251051227,
    "spots": 251051227,
-   "shown": 14563,
+   "shown": 30503,
    "cats": {
     "wall": 7808758,
     "stuck": 161192649,
@@ -4312,7 +4312,7 @@
    },
    "holds": 25327606,
    "void": 2813,
-   "bytes": 438633,
+   "bytes": 784447,
    "every": true,
    "cells": 30503
   },
@@ -4352,8 +4352,8 @@
    },
    "holds": 10602,
    "void": 1423184,
-   "bytes": 986300,
-   "shown": 64541,
+   "bytes": 1636624,
+   "shown": 113124,
    "every": true,
    "cells": 113124
   },
