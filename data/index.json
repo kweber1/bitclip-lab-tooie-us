@@ -312,10 +312,36 @@
    "map_names": [
     "Code Chamber"
    ],
-   "tris": 3395,
+   "tris": 1326,
    "opa": "0x1D10",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 271,
+   "crack_samples": 42162120035,
+   "crack_floats": 152754111,
+   "spots": 152754111,
+   "shown": 65843,
+   "cats": {
+    "wall": 61537476,
+    "walk": 686742,
+    "eject": 66976858,
+    "lag": 7858,
+    "jump": 35759,
+    "stuck": 23509418
+   },
+   "cats_flat": {
+    "wall": 280989,
+    "walk": 686742,
+    "eject": 43188871,
+    "lag": 7858,
+    "jump": 35759,
+    "stuck": 604228
+   },
+   "holds": 1106757,
+   "void": 686742,
+   "every": true,
+   "cells": 149338,
+   "bytes": 1062028
   },
   {
    "map": "0xC4",
