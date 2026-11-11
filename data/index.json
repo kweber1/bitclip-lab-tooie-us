@@ -1910,10 +1910,36 @@
    "map_names": [
     "Workers' Quarters"
    ],
-   "tris": 4535,
+   "tris": 1931,
    "opa": "0x1D82",
    "xlu": "0x1D95",
-   "done": false
+   "done": true,
+   "seams": 610,
+   "crack_samples": 36082913237,
+   "crack_floats": 43773431,
+   "spots": 43773431,
+   "shown": 74278,
+   "cats": {
+    "wall": 14936737,
+    "walk": 1543980,
+    "eject": 25922865,
+    "jump": 99901,
+    "lag": 51191,
+    "stuck": 1218757
+   },
+   "cats_flat": {
+    "wall": 10996655,
+    "walk": 1518515,
+    "eject": 24424800,
+    "jump": 99894,
+    "lag": 22275,
+    "stuck": 276
+   },
+   "holds": 4648653,
+   "void": 1517105,
+   "every": true,
+   "cells": 74278,
+   "bytes": 1198389
   },
   {
    "map": "0x104",
