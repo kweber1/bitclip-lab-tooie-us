@@ -2978,10 +2978,38 @@
    "map_names": [
     "Ice Train Station"
    ],
-   "tris": 4467,
+   "tris": 1882,
    "opa": "0x1D9E",
    "xlu": "0x1D9F",
-   "done": false
+   "done": true,
+   "seams": 501,
+   "crack_samples": 58382761087,
+   "crack_floats": 125846272,
+   "spots": 125846272,
+   "shown": 324463,
+   "cats": {
+    "wall": 11272927,
+    "stuck": 63504809,
+    "eject": 41757565,
+    "water": 5303160,
+    "walk": 2252255,
+    "jump": 1389404,
+    "lag": 366152
+   },
+   "cats_flat": {
+    "wall": 388540,
+    "eject": 11592881,
+    "stuck": 491270,
+    "walk": 1356126,
+    "jump": 49219,
+    "lag": 11463,
+    "water": 828166
+   },
+   "holds": 3989,
+   "void": 1336961,
+   "every": true,
+   "cells": 324463,
+   "bytes": 5397497
   },
   {
    "map": "0x12B",
