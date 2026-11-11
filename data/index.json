@@ -1863,10 +1863,36 @@
    "map_names": [
     "Elevator Shaft"
    ],
-   "tris": 3636,
+   "tris": 1192,
    "opa": "0x1D7B",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 44,
+   "crack_samples": 17013964926,
+   "crack_floats": 13120028,
+   "spots": 13120028,
+   "shown": 13680,
+   "cats": {
+    "wall": 7419991,
+    "eject": 4939219,
+    "walk": 673711,
+    "lag": 56477,
+    "jump": 27582,
+    "stuck": 3048
+   },
+   "cats_flat": {
+    "wall": 7419991,
+    "eject": 4939219,
+    "walk": 673711,
+    "lag": 56477,
+    "jump": 27582,
+    "stuck": 3048
+   },
+   "holds": 3000,
+   "void": 638576,
+   "every": true,
+   "cells": 20170,
+   "bytes": 239276
   },
   {
    "map": "0x106",
