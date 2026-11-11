@@ -448,10 +448,38 @@
    "map_names": [
     "Fuel Depot"
    ],
-   "tris": 3818,
+   "tris": 1587,
    "opa": "0x1D19",
    "xlu": "0x1D32",
-   "done": false
+   "done": true,
+   "seams": 951,
+   "crack_samples": 51255292137,
+   "crack_floats": 39725331,
+   "spots": 39725331,
+   "shown": 50479,
+   "cats": {
+    "wall": 25197026,
+    "walk": 1973805,
+    "jump": 186552,
+    "eject": 9403286,
+    "stuck": 2607892,
+    "lag": 86800,
+    "water": 269970
+   },
+   "cats_flat": {
+    "wall": 707175,
+    "walk": 192458,
+    "jump": 39953,
+    "eject": 5525640,
+    "stuck": 84483,
+    "lag": 36550,
+    "water": 235941
+   },
+   "holds": 247725,
+   "void": 164984,
+   "every": true,
+   "cells": 182309,
+   "bytes": 1023743
   },
   {
    "map": "0xCB",
