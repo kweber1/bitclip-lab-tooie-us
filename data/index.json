@@ -2257,10 +2257,36 @@
    "map_names": [
     "Floor 5"
    ],
-   "tris": 4372,
+   "tris": 1555,
    "opa": "0x1D83",
    "xlu": "0x1D92",
-   "done": false
+   "done": true,
+   "seams": 296,
+   "crack_samples": 25003075503,
+   "crack_floats": 7941627,
+   "spots": 7941627,
+   "shown": 47184,
+   "cats": {
+    "wall": 5132476,
+    "stuck": 4772,
+    "walk": 777458,
+    "eject": 1988143,
+    "lag": 6741,
+    "jump": 32037
+   },
+   "cats_flat": {
+    "wall": 5130285,
+    "walk": 777144,
+    "eject": 1988143,
+    "lag": 6741,
+    "jump": 32037,
+    "stuck": 4227
+   },
+   "holds": 13371,
+   "void": 773373,
+   "every": true,
+   "cells": 47184,
+   "bytes": 572133
   },
   {
    "map": "0x10F",
