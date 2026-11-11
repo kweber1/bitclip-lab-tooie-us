@@ -3446,10 +3446,38 @@
    "map_names": [
     "Pine Grove"
    ],
-   "tris": 3708,
+   "tris": 1824,
    "opa": "0x1DC5",
    "xlu": "0x1DC6",
-   "done": false
+   "done": true,
+   "seams": 886,
+   "crack_samples": 71111698140,
+   "crack_floats": 187585156,
+   "spots": 187585156,
+   "shown": 187018,
+   "cats": {
+    "wall": 75058034,
+    "stuck": 29814068,
+    "eject": 54425058,
+    "walk": 21378099,
+    "jump": 4405351,
+    "lag": 2033694,
+    "water": 470852
+   },
+   "cats_flat": {
+    "eject": 2344342,
+    "wall": 95317,
+    "walk": 380930,
+    "jump": 21988,
+    "lag": 6058,
+    "stuck": 309,
+    "water": 56030
+   },
+   "holds": 10269914,
+   "void": 1450918,
+   "every": true,
+   "cells": 718927,
+   "bytes": 4366229
   },
   {
    "map": "0x155",
