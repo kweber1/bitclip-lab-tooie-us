@@ -1567,10 +1567,36 @@
    "map_names": [
     "UFO"
    ],
-   "tris": 3519,
+   "tris": 1234,
    "opa": "0x1D4C",
    "xlu": "0x1D64",
-   "done": false
+   "done": true,
+   "seams": 546,
+   "crack_samples": 59421691259,
+   "crack_floats": 131291229,
+   "spots": 131291229,
+   "shown": 118823,
+   "cats": {
+    "wall": 14929636,
+    "walk": 1608348,
+    "eject": 86093275,
+    "lag": 218045,
+    "jump": 645509,
+    "stuck": 27796416
+   },
+   "cats_flat": {
+    "wall": 672020,
+    "walk": 1429908,
+    "eject": 14112950,
+    "lag": 47213,
+    "jump": 205851,
+    "stuck": 8729
+   },
+   "holds": 241130,
+   "void": 1378978,
+   "every": true,
+   "cells": 254805,
+   "bytes": 1951959
   },
   {
    "map": "0xF4",
