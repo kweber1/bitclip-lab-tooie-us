@@ -1975,10 +1975,36 @@
    "map_names": [
     "Floor 3 Boiler Plant"
    ],
-   "tris": 3977,
+   "tris": 1624,
    "opa": "0x1D7F",
    "xlu": "0x1D94",
-   "done": false
+   "done": true,
+   "seams": 554,
+   "crack_samples": 68337650899,
+   "crack_floats": 59875866,
+   "spots": 59875866,
+   "shown": 163014,
+   "cats": {
+    "wall": 15044970,
+    "walk": 9450861,
+    "eject": 33326602,
+    "lag": 77213,
+    "jump": 236533,
+    "stuck": 1739687
+   },
+   "cats_flat": {
+    "wall": 3923469,
+    "walk": 2958379,
+    "eject": 32846189,
+    "lag": 33909,
+    "jump": 83985,
+    "stuck": 926
+   },
+   "holds": 452866,
+   "void": 2900723,
+   "every": true,
+   "cells": 282378,
+   "bytes": 2477090
   },
   {
    "map": "0x10A",
