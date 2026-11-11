@@ -4211,10 +4211,36 @@
     "Meanwhile",
     "Bob Firing At Jv"
    ],
-   "tris": 5322,
+   "tris": 2646,
    "opa": "0x1DB9",
    "xlu": "0x1DBA",
-   "done": false
+   "done": true,
+   "seams": 695,
+   "crack_samples": 93219815458,
+   "crack_floats": 456817920,
+   "spots": 456817920,
+   "shown": 494526,
+   "cats": {
+    "walk": 48259622,
+    "lag": 3288152,
+    "eject": 214614356,
+    "stuck": 76814076,
+    "wall": 106649698,
+    "jump": 7192016
+   },
+   "cats_flat": {
+    "walk": 4906259,
+    "lag": 160031,
+    "eject": 7230531,
+    "stuck": 107964,
+    "wall": 1381764,
+    "jump": 97853
+   },
+   "holds": 8873837,
+   "void": 3206217,
+   "every": true,
+   "cells": 494526,
+   "bytes": 7904643
   },
   {
    "map": "0x15E",
