@@ -1921,10 +1921,36 @@
    "map_names": [
     "Train Station"
    ],
-   "tris": 4541,
+   "tris": 1741,
    "opa": "0x1D7D",
    "xlu": "0x1D8C",
-   "done": false
+   "done": true,
+   "seams": 512,
+   "crack_samples": 70351744099,
+   "crack_floats": 131645179,
+   "spots": 131645179,
+   "shown": 264767,
+   "cats": {
+    "wall": 9906475,
+    "stuck": 8435717,
+    "eject": 107804351,
+    "jump": 253728,
+    "lag": 95481,
+    "walk": 5149427
+   },
+   "cats_flat": {
+    "wall": 6706177,
+    "eject": 97267781,
+    "jump": 134356,
+    "lag": 42630,
+    "walk": 4750137,
+    "stuck": 8919
+   },
+   "holds": 4906366,
+   "void": 4706736,
+   "every": true,
+   "cells": 264767,
+   "bytes": 3995324
   },
   {
    "map": "0x103",
