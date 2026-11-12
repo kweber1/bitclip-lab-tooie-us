@@ -1699,10 +1699,36 @@
    "map_names": [
     "Jolly's"
    ],
-   "tris": 8644,
+   "tris": 3703,
    "opa": "0x1D57",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 989,
+   "crack_samples": 64020253003,
+   "crack_floats": 17927237,
+   "spots": 17927237,
+   "shown": 130629,
+   "cats": {
+    "wall": 2719214,
+    "walk": 6103759,
+    "lag": 388462,
+    "stuck": 1682887,
+    "jump": 310786,
+    "eject": 6722129
+   },
+   "cats_flat": {
+    "wall": 1082568,
+    "walk": 882896,
+    "eject": 6524643,
+    "lag": 136935,
+    "jump": 58245,
+    "stuck": 1038766
+   },
+   "holds": 2485761,
+   "void": 514231,
+   "every": true,
+   "cells": 130629,
+   "bytes": 2111130
   },
   {
    "map": "0xEE",
