@@ -2372,10 +2372,36 @@
    "map_names": [
     "Floor 4"
    ],
-   "tris": 6754,
+   "tris": 3393,
    "opa": "0x1D7A",
    "xlu": "0x1D91",
-   "done": false
+   "done": true,
+   "seams": 794,
+   "crack_samples": 26754163989,
+   "crack_floats": 3486246,
+   "spots": 3486246,
+   "shown": 120164,
+   "cats": {
+    "wall": 2147369,
+    "walk": 347977,
+    "eject": 353360,
+    "jump": 124893,
+    "lag": 20003,
+    "stuck": 492644
+   },
+   "cats_flat": {
+    "wall": 205708,
+    "walk": 104933,
+    "eject": 295259,
+    "jump": 4268,
+    "lag": 2596,
+    "stuck": 27805
+   },
+   "holds": 14694,
+   "void": 88229,
+   "every": true,
+   "cells": 120164,
+   "bytes": 1527805
   },
   {
    "map": "0x10C",
