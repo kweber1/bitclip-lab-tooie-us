@@ -2081,10 +2081,38 @@
    "map_names": [
     "Outside"
    ],
-   "tris": 7604,
+   "tris": 3611,
    "opa": "0x1D76",
    "xlu": "0x1D88",
-   "done": false
+   "done": true,
+   "seams": 1029,
+   "crack_samples": 76337400391,
+   "crack_floats": 1239473346,
+   "spots": 1239473346,
+   "shown": 478191,
+   "cats": {
+    "wall": 26778188,
+    "water": 11314357,
+    "eject": 965648225,
+    "walk": 1915152,
+    "jump": 132349737,
+    "stuck": 83153588,
+    "lag": 18314099
+   },
+   "cats_flat": {
+    "wall": 1189972,
+    "water": 641352,
+    "eject": 18245620,
+    "walk": 1440265,
+    "jump": 73322,
+    "lag": 19363,
+    "stuck": 639218
+   },
+   "holds": 74016,
+   "void": 1402587,
+   "every": true,
+   "cells": 478191,
+   "bytes": 8546185
   },
   {
    "map": "0x101",
