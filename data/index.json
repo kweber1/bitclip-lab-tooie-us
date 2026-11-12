@@ -3775,10 +3775,38 @@
    "map_names": [
     "Central Cavern"
    ],
-   "tris": 6824,
+   "tris": 3057,
    "opa": "0x1DAC",
    "xlu": "0x1DB4",
-   "done": false
+   "done": true,
+   "seams": 785,
+   "crack_samples": 66253571097,
+   "crack_floats": 523511953,
+   "spots": 523511953,
+   "shown": 599819,
+   "cats": {
+    "wall": 128084476,
+    "eject": 227039005,
+    "stuck": 54916507,
+    "walk": 82368215,
+    "lag": 7233047,
+    "jump": 23631055,
+    "water": 239648
+   },
+   "cats_flat": {
+    "wall": 162665,
+    "walk": 4197784,
+    "lag": 885250,
+    "eject": 189980810,
+    "jump": 495450,
+    "stuck": 79431,
+    "water": 94928
+   },
+   "holds": 93212425,
+   "void": 2812507,
+   "every": true,
+   "cells": 599819,
+   "bytes": 11896832
   },
   {
    "map": "0x13D",
