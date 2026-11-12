@@ -3592,10 +3592,36 @@
    "map_names": [
     "Inside Volcano"
    ],
-   "tris": 6212,
+   "tris": 2597,
    "opa": "0x1DA4",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 576,
+   "crack_samples": 62815868304,
+   "crack_floats": 223963096,
+   "spots": 223963096,
+   "shown": 589102,
+   "cats": {
+    "wall": 162272965,
+    "eject": 48444957,
+    "stuck": 5853576,
+    "jump": 602715,
+    "walk": 6535030,
+    "lag": 253853
+   },
+   "cats_flat": {
+    "wall": 2396596,
+    "walk": 4970288,
+    "eject": 26865277,
+    "lag": 135267,
+    "jump": 294061,
+    "stuck": 53702
+   },
+   "holds": 308485,
+   "void": 4546937,
+   "every": true,
+   "cells": 589102,
+   "bytes": 10083487
   },
   {
    "map": "0x136",
