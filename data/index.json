@@ -5136,10 +5136,36 @@
    "map_names": [
     "Smugglers' Cavern"
    ],
-   "tris": 5825,
+   "tris": 2406,
    "opa": "0x729",
    "xlu": "0x736",
-   "done": false
+   "done": true,
+   "seams": 671,
+   "crack_samples": 59626410263,
+   "crack_floats": 1399895448,
+   "spots": 1399895448,
+   "shown": 536254,
+   "cats": {
+    "eject": 468932190,
+    "stuck": 342725751,
+    "wall": 355206232,
+    "lag": 23196927,
+    "jump": 80352876,
+    "walk": 129273573,
+    "water": 207899
+   },
+   "cats_flat": {
+    "wall": 4545,
+    "stuck": 40,
+    "water": 133023,
+    "walk": 19,
+    "eject": 1302
+   },
+   "holds": 96981148,
+   "void": 112889,
+   "every": true,
+   "cells": 536254,
+   "bytes": 12299591
   },
   {
    "map": "0x1A7",
