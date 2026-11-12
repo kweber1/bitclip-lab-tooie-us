@@ -242,10 +242,38 @@
    "map_names": [
     "Prison Compound"
    ],
-   "tris": 6083,
+   "tris": 2871,
    "opa": "0x1D0C",
    "xlu": "0x1D0D",
-   "done": false
+   "done": true,
+   "seams": 1165,
+   "crack_samples": 68121626230,
+   "crack_floats": 889786515,
+   "spots": 889786515,
+   "shown": 469388,
+   "cats": {
+    "wall": 863035531,
+    "walk": 1479197,
+    "lag": 53449,
+    "jump": 96380,
+    "eject": 17313283,
+    "stuck": 4458904,
+    "water": 3349771
+   },
+   "cats_flat": {
+    "wall": 808652592,
+    "walk": 1254438,
+    "lag": 51633,
+    "jump": 27044,
+    "eject": 10732534,
+    "stuck": 27565,
+    "water": 329274
+   },
+   "holds": 4886741,
+   "void": 1207029,
+   "every": true,
+   "cells": 469388,
+   "bytes": 7158026
   },
   {
    "map": "0xBA",
