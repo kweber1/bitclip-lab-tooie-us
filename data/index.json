@@ -12,10 +12,38 @@
    "map_names": [
     "Spiral Mountain"
    ],
-   "tris": 9763,
+   "tris": 4806,
    "opa": "0x1CF9",
    "xlu": "0x1CFA",
-   "done": false
+   "done": true,
+   "seams": 2780,
+   "crack_samples": 178023720700,
+   "crack_floats": 1347579949,
+   "spots": 1347579949,
+   "shown": 1887219,
+   "cats": {
+    "lag": 8067988,
+    "eject": 466137330,
+    "stuck": 192083930,
+    "wall": 501330710,
+    "walk": 102701135,
+    "jump": 14818017,
+    "water": 62440839
+   },
+   "cats_flat": {
+    "wall": 8150275,
+    "eject": 29332709,
+    "walk": 3094024,
+    "lag": 25104,
+    "jump": 97023,
+    "water": 5058662,
+    "stuck": 8443
+   },
+   "holds": 43157954,
+   "void": 3095197,
+   "every": true,
+   "cells": 1887219,
+   "bytes": 37225680
   },
   {
    "map": "0xAD",
