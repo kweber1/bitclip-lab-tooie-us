@@ -4952,10 +4952,36 @@
     "Inside Targitzan's Temple",
     "Inside Targitzan Temple"
    ],
-   "tris": 8098,
+   "tris": 4289,
    "opa": "0x1D16",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1215,
+   "crack_samples": 53718691859,
+   "crack_floats": 10929097,
+   "spots": 10929097,
+   "shown": 54818,
+   "cats": {
+    "wall": 4748881,
+    "walk": 1579300,
+    "lag": 37458,
+    "jump": 46708,
+    "eject": 3902326,
+    "stuck": 614424
+   },
+   "cats_flat": {
+    "wall": 2189946,
+    "walk": 379485,
+    "lag": 37458,
+    "jump": 46133,
+    "eject": 3890405,
+    "stuck": 1421
+   },
+   "holds": 6685,
+   "void": 375796,
+   "every": true,
+   "cells": 54818,
+   "bytes": 787031
   },
   {
    "map": "0x173",
