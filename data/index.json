@@ -1850,10 +1850,38 @@
    "map_names": [
     "Seaweed Sanctum"
    ],
-   "tris": 7497,
+   "tris": 3187,
    "opa": "0x1D51",
    "xlu": "0x1D52",
-   "done": false
+   "done": true,
+   "seams": 837,
+   "crack_samples": 77534626778,
+   "crack_floats": 12020195,
+   "spots": 12020195,
+   "shown": 191313,
+   "cats": {
+    "wall": 1375642,
+    "walk": 1340212,
+    "lag": 94469,
+    "jump": 77733,
+    "eject": 7260324,
+    "water": 1155563,
+    "stuck": 716252
+   },
+   "cats_flat": {
+    "wall": 620459,
+    "walk": 1274897,
+    "lag": 91682,
+    "jump": 57913,
+    "eject": 5944838,
+    "water": 501248,
+    "stuck": 2767
+   },
+   "holds": 172090,
+   "void": 1036085,
+   "every": true,
+   "cells": 191313,
+   "bytes": 2698090
   },
   {
    "map": "0xF8",
