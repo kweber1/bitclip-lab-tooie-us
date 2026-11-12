@@ -3551,10 +3551,36 @@
    "map_names": [
     "Icicle Grotto"
    ],
-   "tris": 7468,
+   "tris": 4462,
    "opa": "0x1DA1",
    "xlu": "0x1DA2",
-   "done": false
+   "done": true,
+   "seams": 1351,
+   "crack_samples": 65671189374,
+   "crack_floats": 268543895,
+   "spots": 268543895,
+   "shown": 621673,
+   "cats": {
+    "wall": 164396667,
+    "stuck": 33106123,
+    "eject": 52008218,
+    "jump": 5555765,
+    "walk": 11644969,
+    "lag": 1832153
+   },
+   "cats_flat": {
+    "eject": 3480718,
+    "walk": 575373,
+    "wall": 462449,
+    "stuck": 756,
+    "jump": 29662,
+    "lag": 9951
+   },
+   "holds": 10511468,
+   "void": 376583,
+   "every": true,
+   "cells": 621673,
+   "bytes": 12702067
   },
   {
    "map": "0x133",
