@@ -3581,10 +3581,38 @@
    "map_names": [
     "Lava Side"
    ],
-   "tris": 23028,
+   "tris": 7053,
    "opa": "0x1D99",
    "xlu": "0x1D9A",
-   "done": false
+   "done": true,
+   "seams": 2191,
+   "crack_samples": 183349060363,
+   "crack_floats": 788612601,
+   "spots": 788612601,
+   "shown": 1947192,
+   "cats": {
+    "walk": 129518152,
+    "eject": 357597831,
+    "wall": 209054593,
+    "jump": 11606490,
+    "stuck": 76036153,
+    "lag": 4621568,
+    "water": 177814
+   },
+   "cats_flat": {
+    "walk": 6837320,
+    "eject": 97957458,
+    "wall": 85424435,
+    "lag": 48727,
+    "jump": 93909,
+    "stuck": 202908,
+    "water": 7881
+   },
+   "holds": 25849840,
+   "void": 6817198,
+   "every": true,
+   "cells": 1947192,
+   "bytes": 11501841
   },
   {
    "map": "0x128",
