@@ -255,10 +255,38 @@
     "Mayahem Temple",
     "Still"
    ],
-   "tris": 15170,
+   "tris": 5104,
    "opa": "0x1D0A",
    "xlu": "0x1D0B",
-   "done": false
+   "done": true,
+   "seams": 2451,
+   "crack_samples": 111191451875,
+   "crack_floats": 293145728,
+   "spots": 293145728,
+   "shown": 1092909,
+   "cats": {
+    "wall": 69380745,
+    "walk": 5690824,
+    "eject": 95653559,
+    "jump": 1347151,
+    "lag": 414876,
+    "stuck": 119882571,
+    "water": 776002
+   },
+   "cats_flat": {
+    "wall": 14312383,
+    "walk": 3929852,
+    "eject": 16154006,
+    "jump": 257537,
+    "lag": 66625,
+    "stuck": 5077,
+    "water": 751586
+   },
+   "holds": 1600563,
+   "void": 3853510,
+   "every": true,
+   "cells": 1092909,
+   "bytes": 5847343
   },
   {
    "map": "0xB9",
