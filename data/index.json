@@ -4868,10 +4868,36 @@
     "Floor 4 Clinkers Cavern",
     "Ordnance Storage"
    ],
-   "tris": 9567,
+   "tris": 4237,
    "opa": "0x1D8D",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1319,
+   "crack_samples": 58968048307,
+   "crack_floats": 16246475,
+   "spots": 16246475,
+   "shown": 176972,
+   "cats": {
+    "wall": 9115998,
+    "eject": 1895191,
+    "walk": 687155,
+    "lag": 14820,
+    "jump": 39338,
+    "stuck": 4493973
+   },
+   "cats_flat": {
+    "wall": 1036869,
+    "eject": 1534252,
+    "walk": 686942,
+    "lag": 14820,
+    "jump": 37453,
+    "stuck": 9657
+   },
+   "holds": 832293,
+   "void": 604772,
+   "every": true,
+   "cells": 176972,
+   "bytes": 2654328
   },
   {
    "map": "0x163",
