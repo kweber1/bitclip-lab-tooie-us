@@ -1218,10 +1218,36 @@
     "Ordnance Storage",
     "Ordnance Shooting"
    ],
-   "tris": 6534,
+   "tris": 3252,
    "opa": "0x1D34",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 750,
+   "crack_samples": 21750598702,
+   "crack_floats": 1542385,
+   "spots": 1542385,
+   "shown": 74393,
+   "cats": {
+    "wall": 707174,
+    "walk": 235828,
+    "jump": 9517,
+    "eject": 566049,
+    "lag": 2772,
+    "stuck": 21045
+   },
+   "cats_flat": {
+    "wall": 635446,
+    "walk": 235815,
+    "jump": 9517,
+    "eject": 498479,
+    "lag": 2772,
+    "stuck": 1115
+   },
+   "holds": 4565,
+   "void": 192635,
+   "every": true,
+   "cells": 74393,
+   "bytes": 902061
   },
   {
    "map": "0xDD",
