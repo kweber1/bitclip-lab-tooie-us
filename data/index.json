@@ -5181,10 +5181,22 @@
     "Atlantis",
     "Sea Bottom"
    ],
-   "tris": 7421,
+   "tris": 1041,
    "opa": null,
    "xlu": "0x1D5C",
-   "done": false
+   "done": true,
+   "seams": 0,
+   "crack_samples": 0,
+   "crack_floats": 0,
+   "spots": 0,
+   "shown": 0,
+   "cats": {},
+   "cats_flat": {},
+   "holds": 0,
+   "void": 0,
+   "every": false,
+   "cells": 0,
+   "bytes": 18248
   }
  ]
 }
