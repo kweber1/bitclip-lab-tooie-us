@@ -567,10 +567,38 @@
     "Race 1",
     "Race 2"
    ],
-   "tris": 10537,
+   "tris": 4448,
    "opa": "0x1D25",
    "xlu": "0x1D36",
-   "done": false
+   "done": true,
+   "seams": 1861,
+   "crack_samples": 75574308243,
+   "crack_floats": 885158489,
+   "spots": 885158489,
+   "shown": 1615092,
+   "cats": {
+    "wall": 372902275,
+    "eject": 382004290,
+    "stuck": 88495184,
+    "walk": 11478713,
+    "lag": 1376205,
+    "jump": 3717877,
+    "water": 25183945
+   },
+   "cats_flat": {
+    "wall": 1686851,
+    "eject": 5323086,
+    "walk": 149343,
+    "lag": 4526,
+    "jump": 2177,
+    "stuck": 9562,
+    "water": 605744
+   },
+   "holds": 3674337,
+   "void": 147437,
+   "every": true,
+   "cells": 1615092,
+   "bytes": 34462655
   },
   {
    "map": "0xCA",
