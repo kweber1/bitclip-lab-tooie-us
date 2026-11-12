@@ -2413,10 +2413,36 @@
    "map_names": [
     "Floor 3"
    ],
-   "tris": 7981,
+   "tris": 3702,
    "opa": "0x1D79",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1044,
+   "crack_samples": 70231081718,
+   "crack_floats": 23746108,
+   "spots": 23746108,
+   "shown": 248486,
+   "cats": {
+    "wall": 2749942,
+    "eject": 17754692,
+    "walk": 2404513,
+    "jump": 122386,
+    "stuck": 660213,
+    "lag": 54362
+   },
+   "cats_flat": {
+    "wall": 1570488,
+    "eject": 17505731,
+    "stuck": 1637,
+    "walk": 1877010,
+    "jump": 59810,
+    "lag": 28496
+   },
+   "holds": 181213,
+   "void": 1805445,
+   "every": true,
+   "cells": 248486,
+   "bytes": 3453374
   },
   {
    "map": "0x109",
