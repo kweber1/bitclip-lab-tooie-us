@@ -2329,10 +2329,38 @@
    "map_names": [
     "Floor 2"
    ],
-   "tris": 7997,
+   "tris": 3987,
    "opa": "0x1D78",
    "xlu": "0x1D8F",
-   "done": false
+   "done": true,
+   "seams": 1032,
+   "crack_samples": 57771427511,
+   "crack_floats": 48987337,
+   "spots": 48987337,
+   "shown": 313368,
+   "cats": {
+    "wall": 21334258,
+    "walk": 3410111,
+    "eject": 7249833,
+    "lag": 322646,
+    "jump": 641292,
+    "stuck": 4109660,
+    "water": 11919537
+   },
+   "cats_flat": {
+    "wall": 485717,
+    "walk": 1553943,
+    "eject": 5144514,
+    "lag": 25576,
+    "jump": 57588,
+    "stuck": 13776,
+    "water": 21370
+   },
+   "holds": 6493306,
+   "void": 1516531,
+   "every": true,
+   "cells": 313368,
+   "bytes": 4748894
   },
   {
    "map": "0x107",
